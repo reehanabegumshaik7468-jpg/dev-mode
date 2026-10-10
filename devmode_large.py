@@ -1,3 +1,4 @@
+//creating a list
 list=list(map(int,input("Enter the elements : ").split()))
 largest=list[0]
 
